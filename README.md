@@ -10,5 +10,12 @@
 
 <br>
 
+## Implementation
+* Python >= 3.5
+* Tensorflow >= 2.1.0
+* Follow the "FLAGS" in the Gender_age_model_3_ver3.py
+
+## Result
+
 
 
