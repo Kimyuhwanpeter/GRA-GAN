@@ -26,6 +26,8 @@
 ![Figure 2](https://github.com/Kimyuhwanpeter/GRA-GAN/blob/main/Figure%202.png)
 <br/>
 
-* 
+* Samples of training graphs (GRA-GAN, average the loss per step, it's not implemented in this code (if you want to make this graphs then you should add the average loss code).)
+![Figure 3](https://github.com/Kimyuhwanpeter/GRA-GAN/blob/main/Figure%203.png)
+<br/>
 
 
