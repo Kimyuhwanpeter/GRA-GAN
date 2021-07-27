@@ -13,6 +13,7 @@
 ## Implementation
 * Python >= 3.5
 * Tensorflow >= 2.1.0
+* Window 10 or Linux
 * Follow the "FLAGS" in the Gender_age_model_3_ver3.py
 
 ## Result
