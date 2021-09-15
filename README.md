@@ -29,5 +29,8 @@
 ![Figure 3](https://github.com/Kimyuhwanpeter/GRA-GAN/blob/main/Figure%203.png)
 <br/>
 
-## Model weights
-* [AFAD and Morph weights](https://drive.google.com/drive/folders/1wbuFFcIIgRBvfqRyeQDfufrJQlQiYm_C?usp=sharing)
+## Model weights (AFAD and Morph)
+* [AFAD-M (16~39) and Morph-F (40 ~ 63)](https://drive.google.com/drive/folders/1wbuFFcIIgRBvfqRyeQDfufrJQlQiYm_C?usp=sharing)
+* [AFAD-M (40~63) and Morph-F (16 ~ 39)](https://drive.google.com/drive/folders/1xwnCbq413JS7nuHBdKOd0AUDqzaePvv5?usp=sharing)
+* [AFAD-F (40~63) and Morph-M (16 ~ 39)](https://drive.google.com/drive/folders/1xtUw5y-zevqtIbquOzS7a0huC9mlMdT7?usp=sharing)
+* [AFAD-F (16~39) and Morph-M (40 ~ 63)](https://drive.google.com/drive/folders/11V1werP3BjBnUp5fCRv0_kUCIdT0DZFg?usp=sharing)
