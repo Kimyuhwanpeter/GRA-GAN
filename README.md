@@ -2,8 +2,6 @@
 
 ## Introduction
 
-**Not complete**
-
 **Any work that uses the provided pretrained network must acknowledge the authors by including the following reference**
 
     Yu Hwan Kim, Se Hyun Nam, Seung Baek Hong, and Kang Ryoung Park, “Style Transfer of Gender, Race, and Age by GRA-GAN Based on Channel-wise and Multiplication-based Information Fusion of Encoder and Decoder Features,” Information Fusion, in submission 
@@ -31,4 +29,5 @@
 ![Figure 3](https://github.com/Kimyuhwanpeter/GRA-GAN/blob/main/Figure%203.png)
 <br/>
 
-
+## Model weights
+* [AFAD and Morph weights](https://drive.google.com/drive/folders/1wbuFFcIIgRBvfqRyeQDfufrJQlQiYm_C?usp=sharing)
