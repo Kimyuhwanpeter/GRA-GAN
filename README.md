@@ -4,7 +4,7 @@
 
 **Any work that uses the provided pretrained network must acknowledge the authors by including the following reference**
 
-    Yu Hwan Kim, Se Hyun Nam, Seung Baek Hong, and Kang Ryoung Park, “Style Transfer of Gender, Race, and Age by GRA-GAN Based on Channel-wise and Multiplication-based Information Fusion of Encoder and Decoder Features,” Information Fusion, in submission 
+    Yu Hwan Kim, Se Hyun Nam, Seung Baek Hong, and Kang Ryoung Park, “Style Transfer of Gender, Race, and Age by GRA-GAN Based on Channel-wise and Multiplication-based Information Fusion of Encoder and Decoder Features,”  in submission 
 
 <br>
 
