@@ -1,4 +1,4 @@
-# Style Transfer of Gender, Race, and Age by GRA-GAN Based on Channel-wise and Multiplication-based Information Fusion of Encoder and Decoder Features
+# GRA-GAN: Generative Adversarial Network for Image Style Transfer of Gender, Race, and Age
 
 ## Introduction
 
